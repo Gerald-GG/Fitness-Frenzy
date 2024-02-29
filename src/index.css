@@ -1,0 +1,142 @@
+.commentContainer {
+  width: 260px;
+  height: 40px;
+  display: flex;
+  background-color: #f0f0f0;
+  border: 1px solid #0c0000;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.commentContainer:hover {
+  border-color: #007bff;
+}
+
+.first_input {
+  background-color: #e0e0e0;
+  border: 1px solid #999;
+  padding: 5px;
+  border-radius: 3px;
+  width: 300px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.reply-comment {
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 15px;
+  border:1px solid#0c0000;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.reply-comment:hover {
+  border-color: #767e06;
+  color: #2121e7;
+}
+
+.commentActions {
+  height: 30px;
+  display: flex;
+  margin-left: 250px;
+  padding: 20px;
+  margin-top: 3px;
+  cursor: pointer;
+
+}
+
+.replyButton {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.replyButton {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.replyEdit {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.replyDelete {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.inputContainer {
+display: flex;
+padding: 5px;
+background-color: #fbfcfb;
+border-radius: 10px;
+}
+
+.childInput {
+  display: flex;
+  margin-top: 40px; 
+  cursor: pointer;
+}
+
+.reply {
+  padding: 10px;
+  background-color: #e94040;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+.replyCancel {
+  background-color:#e94040;
+  margin-left: 17px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.inputContainer__input {
+  border-radius: 5px;
+}
+
+
+.replyButton:hover {
+  background-color:#0056b3
+}
+.replyEdit:hover {
+  background-color: #2ab300; 
+}
+.replyDelete:hover {
+  background-color: #0056b3;
+}
+
+.reply:hover {
+  background-color: #f5f2f2; 
+}
+.replyCancel:hover {
+  background-color: #faf4f4;
+} 
+
+.inputContainer__input:hover {
+  border: 1px solid #00b7ff;
+}

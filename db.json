@@ -1,0 +1,225 @@
+{
+"exercises": [
+    {
+      "id": 1,
+      "name": "Push-up",
+      "image": "/exercisesimages/pushup.jpg",
+      "description": "A classic bodyweight exercise for strengthening the upper body and core. The push-up involves lowering your body to the ground by bending your arms and then pushing it back up using your arms and chest muscles. It's a great exercise for building overall upper body strength and is a staple in many workout routines.",
+      "likes": 5,
+      "dislikes": 0
+    },
+    {
+      "id": 2,
+      "name": "Squats",
+      "image": "/exercisesimages/squats.jpg",
+      "description": "Squats are a lower body exercise that targets the quadriceps, hamstrings, and glutes. When performing squats, you lower your body by bending your knees and hips, as if you were sitting in an imaginary chair, and then return to a standing position. Squats are essential for building leg strength and are a fundamental movement in strength training.",
+      "likes": 3,
+      "dislikes": 0,
+      "dislike": 2
+    },
+    {
+      "id": 3,
+      "name": "Plank",
+      "image": "/exercisesimages/planks.jpg",
+      "description": "The plank is a core-strengthening exercise that improves stability and posture. To do a plank, you hold a push-up position with your arms straight and your body in a straight line, supported by your toes and forearms. This exercise is excellent for developing core strength, which is vital for maintaining good posture and preventing lower back pain.",
+      "likes": 4,
+      "dislikes": 0,
+      "dislike": 2
+    },
+    {
+      "id": 4,
+      "name": "Lunges",
+      "image": "/exercisesimages/lunges.jpg",
+      "description": "Lunges are a leg exercise that works on balance and strength. To perform lunges, you step forward with one leg and lower your body until both knees are bent at 90-degree angles. Lunges help to build leg and glute strength, improve balance, and are often used to target specific leg muscles.",
+      "likes": 2,
+      "dislikes": 0
+    },
+    {
+      "id": 5,
+      "name": "Burpees",
+      "image": "/exercisesimages/burpees.jpg",
+      "description": "Burpees are a full-body exercise that combines strength and cardio. A burpee involves a sequence of movements, including a squat, push-up, and jump. This exercise is intense and effective for both strength training and cardiovascular conditioning, making it a popular choice for high-intensity workouts.",
+      "likes": 1,
+      "dislikes": 0
+    },
+    {
+      "id": 6,
+      "name": "Pull-ups",
+      "image": "/exercisesimages/pull ups.jpg",
+      "description": "Pull-ups are an upper body exercise that primarily targets the back and biceps. When performing pull-ups, you hang from a horizontal bar and pull your body up until your chin is above the bar. This exercise is great for building upper body and back strength and is a challenging bodyweight movement.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 7,
+      "name": "Sit-ups",
+      "image": "/exercisesimages/sit ups.jpg",
+      "description": "Sit-ups are an abdominal exercise designed to strengthen the core muscles. You perform sit-ups by lying on your back, bending your knees, and lifting your upper body off the ground toward your thighs. This exercise helps build abdominal strength and is often included in core workouts.",
+      "likes": 1,
+      "dislikes": 1
+    },
+    {
+      "id": 8,
+      "name": "Jumping Jacks",
+      "image": "/exercisesimages/jumping-jacks.jpg",
+      "description": "Jumping Jacks are a cardio exercise that increases your heart rate. This exercise involves jumping while spreading your legs and simultaneously raising your arms overhead, and then returning to the starting position. Jumping Jacks are an effective way to warm up before other exercises and improve cardiovascular fitness.",
+      "likes": 3,
+      "dislikes": 0
+    },
+    {
+      "id": 9,
+      "name": "Bicycle Crunches",
+      "image": "/exercisesimages/bicycle-crunches.jpg",
+      "description": "Bicycle Crunches are an effective core exercise that targets the oblique muscles. When performing bicycle crunches, you lie on your back, bring your knees up, and twist your upper body to touch your elbows to your knees in a pedaling motion. This exercise is great for building oblique strength and toning the abdominal muscles.",
+      "likes": 1,
+      "dislikes": 0
+    },
+    {
+      "id": 10,
+      "name": "HITT",
+      "image": "/exercisesimages/hitt.jpg",
+      "description": "High-Intensity Interval Training to improve fitness and burn fat.",
+      "likes": 1,
+      "dislikes": 1
+    },
+    {
+      "id": 11,
+      "name": "Russian Twists",
+      "image": "/exercisesimages/russiantwists.jpg",
+      "description": "Russian Twists are a core exercise that works on obliques and improves balance. To perform Russian Twists, sit on the ground, lean back, and twist your torso while holding a weight or object from side to side. This exercise is beneficial for targeting the side abdominal muscles and enhancing core stability.",
+      "likes": 3,
+      "dislikes": 0
+    },
+    {
+      "id": 12,
+      "name": "Jump Rope",
+      "image": "/exercisesimages/jumprope.jpg",
+      "description": "Jump Rope is a great cardio workout that also enhances coordination. It involves jumping over a rope that passes under your feet. Jumping rope is an excellent way to improve cardiovascular fitness and agility, and it can be a fun addition to your exercise routine.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 13,
+      "name": "Mountain Climbers",
+      "image": "/exercisesimages/mountainclimbers.jpg",
+      "description": "Mountain Climbers are a full-body exercise that builds endurance and strength. To perform mountain climbers, get into a push-up position and bring your knees to your chest one at a time in a running motion. This exercise is an efficient way to improve cardiovascular fitness and muscular endurance.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 14,
+      "name": "Dumbbell Rows",
+      "image": "/exercisesimages/dumbbellrows.jpg",
+      "description": "Dumbbell Rows are an exercise for back and arm strength using dumbbells. To do dumbbell rows, bend forward at the hips and pull weights toward your hips, squeezing your shoulder blades together. This exercise is excellent for building upper body strength and targeting the back and arm muscles.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 15,
+      "name": "Leg Raises",
+      "image": "/exercisesimages/legraises.jpg",
+      "description": "Leg Raises are an effective exercise for lower abs and hip flexors. When performing leg raises, you lie on your back and raise your legs off the ground while keeping them straight. This exercise is ideal for building lower abdominal strength and improving hip flexibility.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 16,
+      "name": "Jumping Lunges",
+      "image": "/exercisesimages/jumpinglunges.jpg",
+      "description": "Jumping Lunges are an intense leg exercise that combines cardio and strength. To do jumping lunges, step forward and lower your body into a lunge, then jump and switch legs in mid-air. This exercise is a challenging way to work on lower body strength and cardiovascular endurance.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 17,
+      "name": "Bench Press",
+      "image": "/exercisesimages/benchpress.jpg",
+      "description": "Bench Press is a classic chest exercise using a bench and barbell. To perform the bench press, you lie on a bench and lower the barbell to your chest, then push it back up. This exercise is essential for building chest strength and is a common part of weightlifting routines.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 18,
+      "name": "Deadlift",
+      "image": "/exercisesimages/deadlift.jpg",
+      "description": "Deadlift is a compound exercise for full-body strength using a barbell. To do the deadlift, you lift a loaded barbell off the ground while maintaining a straight back. This exercise is renowned for building overall strength, particularly in the back, hips, and legs.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 19,
+      "name": "Box Jumps",
+      "image": "/exercisesimages/boxjumps.jpg",
+      "description": "Box Jumps are a plyometric exercise for explosive lower body power. When doing box jumps, you jump onto a sturdy platform from a standing position. This exercise is effective for developing leg power and enhancing athletic performance.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 20,
+      "name": "Kettlebell Swings",
+      "image": "/exercisesimages/kettlebellswings.jpg",
+      "description": "Kettlebell Swings are a dynamic exercise that targets the hips and core. To perform kettlebell swings, you swing a kettlebell between your legs and up to shoulder level. This exercise is great for building explosive hip power and overall core strength.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 21,
+      "name": "Bicep Curls",
+      "image": "/exercisesimages/bicepcurls.jpg",
+      "description": "Bicep Curls are an isolation exercise for biceps using dumbbells. To do bicep curls, you hold a dumbbell in each hand and curl the weights toward your shoulders. This exercise is designed to build bicep strength and muscle definition.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 22,
+      "name": "Tricep Dips",
+      "image": "/exercisesimages/tricepdips.jpg",
+      "description": "Tricep Dips are an exercise for triceps and shoulders using parallel bars. To perform tricep dips, you support your body with your arms on parallel bars and lower and raise your body by bending your elbows. This exercise helps strengthen the triceps and shoulders.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 23,
+      "name": "Boxing",
+      "image": "/exercisesimages/boxing.jpg",
+      "description": "Boxing is a high-intensity workout for cardio and upper body strength. It involves a combination of punches, footwork, and defensive maneuvers. Boxing is an effective way to improve cardiovascular fitness, hand-eye coordination, and upper body muscle endurance.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 24,
+      "name": "Running",
+      "image": "/exercisesimages/running.jpg",
+      "description": "Running is a popular aerobic exercise that improves cardiovascular fitness. It involves moving at a fast pace by continuously placing one foot in front of the other. Running is an excellent way to increase stamina, burn calories, and stay physically active.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 25,
+      "name": "Yoga",
+      "image": "/exercisesimages/yoga.jpg",
+      "description": "Yoga is a practice that combines physical postures, breath control, and relaxation techniques. It aims to improve flexibility, balance, and mental well-being. Yoga offers a holistic approach to fitness and overall health.",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "id": 26,
+      "name": "Rowing",
+      "image": "/exercisesimages/rowing.jpg",
+      "description": "Rowing is an excellent full-body workout that targets multiple muscle groups. It is a cardiovascular exercise that involves the use of a rowing machine or a boat on water. The primary muscle groups worked during rowing include the legs, back, and arms.",
+      "likes": 0,
+      "dislikes": 0
+    }
+  ],
+  "comments": [
+    {
+      "text": "Welcome everyone to our website.",
+      "id": 1
+    },
+    {
+      "text": "Please a review for us.",
+      "id": 2
+    }
+  ]
+}
+
